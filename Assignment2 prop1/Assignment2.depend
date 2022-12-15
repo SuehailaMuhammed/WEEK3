@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1671126777 source:c:\users\future\desktop\code of c\assignment2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1671126729 source:c:\users\future\desktop\code of c\assignment2\2.c
+	<stdio.h>
+	<stdlib.h>
+
